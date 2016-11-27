@@ -1,0 +1,16 @@
+{
+  "name": "instana",
+  "version": "0.0.1",
+  "description": "Reserved package name for Instana Inc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instana/npm-instana-name.git"
+  },
+  "author": "Ben Ripkens <bripkens@gmail.com> (http://bripkens.de/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/instana/npm-instana-name/issues"
+  },
+  "homepage": "https://github.com/instana/npm-instana-name#readme"
+}
